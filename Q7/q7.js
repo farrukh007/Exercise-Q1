@@ -1,3 +1,6 @@
+// Farrukh
+// [Current Date/Time]
+// This porgramm performs basic mathematical operation (+, -, *, /)
 var num1;
 var num2;
 num1 = 4;

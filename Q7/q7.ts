@@ -1,3 +1,6 @@
+// Farrukh
+// This porgramm performs basic mathematical operation (+, -, *, /)
+
 var num1:any;
 var num2:any;
 
