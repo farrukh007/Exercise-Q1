@@ -1,4 +1,4 @@
-var rivers : any[];
+let rivers : string[];
 
 rivers = ["Indus River",
           "Amazon River",
@@ -9,3 +9,6 @@ rivers = ["Indus River",
           "Volga River",
           "Paraguay River"
         ];
+for (var i=0; i<rivers.length; i++){
+  console.log(rivers[i]);
+}
