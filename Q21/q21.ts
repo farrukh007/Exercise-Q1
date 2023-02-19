@@ -6,7 +6,7 @@ interface Student {
     studentAge: number;
     studentDegree:  string;
 }
-
+// Storing data in object
 const student: Student = {
     studentName:   "Sania Saeed",
     studentRegNumber:  "18-MSCS-20",
@@ -14,7 +14,7 @@ const student: Student = {
     studentDegree: "MSCS"
 
 };
-
+// Accessing object
 console.log(student.studentName);
 console.log(student.studentRegNumber);
 console.log(student.studentAge);
