@@ -1,10 +1,7 @@
-function order_sandwich(str : string[]){
-    
-    //let order_items : string[];
-    str=[];
-    str.push(str);
-    return str;
-}
+
+let order_items : string[];
+order_items=["Meat", "egg", "Chilli","Mines", "Salad"];
+
 
 function show_order(arr : string[]){
     console.log("Your order: ");
@@ -13,7 +10,4 @@ function show_order(arr : string[]){
     }
 }
 
-order_sandwich("Meat");
-order_sandwich("Cheese");
-order_sandwich("Egg");
-show_order();
+show_order(order_items);
