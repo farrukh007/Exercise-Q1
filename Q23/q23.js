@@ -1,0 +1,15 @@
+var bravo = "soldier";
+var num = 786;
+var car = "Suzuki";
+var fruit = "Banana";
+var food = "Burger";
+console.log(bravo == "soldier");
+console.log(bravo == "person");
+console.log(num == 786);
+console.log(num < 687);
+console.log(car == "Suzuki");
+console.log(car == "Toyota");
+console.log(fruit == "Banana");
+console.log(fruit == "Orange");
+console.log(food == "Burger");
+console.log(food == "Sandwich");
